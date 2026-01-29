@@ -1,4 +1,6 @@
-This repository contains the source code for the numerical simulations presented in the paper **"The stochastic nonlinear punishment in public goods games."**
+# The stochastic nonlinear punishment in public goods games
+
+This repository contains the source code and data for the numerical simulations presented in the paper **"The stochastic nonlinear punishment in public goods games."**
 
 ## Environment Requirements
 * **Software:** MATLAB
@@ -15,8 +17,10 @@ The following scripts and folders correspond to the figures in the paper:
 | `f_x_0` | **Figure 3b** | |
 | `structure_f0_0_f1_0` | **Figure 4** | Panel (a): $r=0.5$; Panel (b): $r=8.5$ |
 | `structure_f1_0` | **Figure 5** | |
-| `Folder_Fig6` | **Figure 6** | Monte Carlo simulation code |
-| `Folder_Fig7` | **Figure 7** | Monte Carlo simulation code |
+| `Folder_Fig6_code` | **Figure 6** | Monte Carlo simulation code |
+| `Folder_Fig7_code` | **Figure 7** | Monte Carlo simulation code |
+| `Folder_Fig6_data` | **Figure 6** | Monte Carlo simulation data |
+| `Folder_Fig7_data` | **Figure 7** | Monte Carlo simulation data |
 
 ## Usage
 1. Ensure all MATLAB files are in your working directory.
